@@ -1,1 +1,3 @@
-# statistic_analysis
+# Statistics Analysis
+
+Statistics basics implemented using pandas and seaborn.
